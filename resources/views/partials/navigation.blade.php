@@ -22,7 +22,7 @@
                 <i class="pe pe-7s-shield text-accent"></i>
 
                 <div class="m-t-xs">
-                    <span class="c-white">Luck4me</span> gerencie suas campanhas de marketing de uma forma mais assertiva.
+                    <span class="c-white">Luck4me</span> gerencie suas campanhas de marketing de uma forma mais inteligente.
                 </div>
             </li>
         </ul>
