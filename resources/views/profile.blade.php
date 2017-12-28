@@ -28,7 +28,7 @@
                                             </small>
                                             <div class="panel panel-filled panel-c-warning">
                                                 <div class="panel-body">
-                                                    <strong class="c-white">ANIVERSARIANTE HOJE</strong>
+                                                    <strong class="c-white">ANIVERSARIANTE HOJE  //////  33 anos</strong>
                                                 </div>
                                             </div>
                                         </div>
@@ -53,14 +53,6 @@
                                             </td>
                                             <td>
                                                 <strong class="c-white">R$ 840,00</strong> Valor gasto
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <strong class="c-white">33</strong> Idade
-                                            </td>
-                                            <td>
-
                                             </td>
                                         </tr>
                                         </tbody>
