@@ -183,7 +183,7 @@
                                         <td>abraham@gamil.com</td>
                                         <td>50</td>
                                         <td>Vosselaar</td>
-                                        <td><a href="#" class="btn btn-default btn-xs active">View</a></td>
+                                        <td><a href="/profile" class="btn btn-default btn-xs active">View</a></td>
                                     </tr>
                                     <tr>
                                         <td>Phelan</td>
@@ -191,7 +191,7 @@
                                         <td>phelan@gmail.com</td>
                                         <td>40</td>
                                         <td>Lavoir</td>
-                                        <td><a href="#" class="btn btn-default btn-xs">View</a></td>
+                                        <td><a href="/profile" class="btn btn-default btn-xs">View</a></td>
                                     </tr>
                                     <tr>
                                         <td>Raya</td>
@@ -199,7 +199,7 @@
                                         <td>raya@hotmail.com</td>
                                         <td>30</td>
                                         <td>Santomenna</td>
-                                        <td><a href="#" class="btn btn-default btn-xs">View</a></td>
+                                        <td><a href="/profile" class="btn btn-default btn-xs">View</a></td>
                                     </tr>
                                     <tr>
                                         <td>Azalia</td>
@@ -207,7 +207,7 @@
                                         <td>azalia@gmail.com</td>
                                         <td>20</td>
                                         <td>Newtown</td>
-                                        <td><a href="#" class="btn btn-default btn-xs">View</a></td>
+                                        <td><a href="/profile" class="btn btn-default btn-xs">View</a></td>
                                     </tr>
                                     <tr>
                                         <td>Garth</td>
@@ -215,7 +215,7 @@
                                         <td>garth@hotmail.com</td>
                                         <td>10</td>
                                         <td>Ternitz</td>
-                                        <td><a href="#" class="btn btn-default btn-xs">View</a></td>
+                                        <td><a href="/profile" class="btn btn-default btn-xs">View</a></td>
                                     </tr>
                                     </tbody>
                                 </table>
