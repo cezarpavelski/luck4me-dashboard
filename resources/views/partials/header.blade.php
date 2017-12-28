@@ -8,7 +8,7 @@
                     </a>
                 </div>
             </div>
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="/dashboard">
                 <img src="/images/logo.png" alt="" style="width:130px">
             </a>
         </div>
