@@ -12,12 +12,14 @@
             </li>
 
             <li class="nav-category">
-                Notificações
+                Menu
             </li>
             <li>
                 <a href="/offer">Ofertas</a>
             </li>
-
+            <li>
+                <a href="/offer">Usuários</a>
+            </li>
             <li class="nav-info">
                 <i class="pe pe-7s-shield text-accent"></i>
 
