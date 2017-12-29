@@ -12,11 +12,14 @@
 */
 
 Route::get('/', function () {
-    return view('login');
+    return view('login/main');
 });
 Route::get('/dashboard', function () {
-    return view('dashboard');
+    return view('dashboard/main');
 });
 Route::get('/profile', function () {
-    return view('profile');
+    return view('profile/main');
+});
+Route::get('/offer', function () {
+    return view('offers/main');
 });
