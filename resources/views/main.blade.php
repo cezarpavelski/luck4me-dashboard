@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="/vendor/animate.css/animate.css"/>
     <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.css"/>
     <link rel="stylesheet" href="/vendor/toastr/toastr.min.css"/>
+    <link rel="stylesheet" href="/vendor/switchery/switchery.min.css"/>
 
     <!-- App styles -->
     <link rel="stylesheet" href="/styles/pe-icons/pe-icon-7-stroke.css"/>
@@ -53,6 +54,7 @@
 <script src="/vendor/flot/jquery.flot.resize.min.js"></script>
 <script src="/vendor/flot/jquery.flot.spline.js"></script>
 <script src="/vendor/datatables/datatables.min.js"></script>
+<script src="/vendor/switchery/switchery.min.js"></script>
 
 <!-- App scripts -->
 <script src="/scripts/luna.js"></script>

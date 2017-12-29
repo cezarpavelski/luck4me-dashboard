@@ -2,36 +2,38 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header text-center">
-                <h4 class="modal-title">Modal title</h4>
-                <small>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</small>
+                <h4 class="modal-title">Nova Oferta</h4>
+                <small>Fidelize seus clientes.</small>
             </div>
             <div class="modal-body">
-                <h4 class="m-t-none">Lorem Ipsum is simply</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.</p>
-                <div class="row">
-                    <div class="col-md-4">
-                        <small class="stat-label">Today</small>
-                        <h4 class="m-t-xs">170,20 <i class="fa fa-level-up text-accent"></i></h4>
+                <form>
+                    <div class="form-group"><label for="new-offer-title">Título</label>
+                        <input type="text" class="form-control" id="new-offer-title" placeholder="Título">
                     </div>
-                    <div class="col-md-4">
-                        <small class="stat-label">Last month %</small>
-                        <h4 class="m-t-xs">%20,20 <i class="fa fa-level-down c-white"></i></h4>
+                    <div class="form-group"><label for="new-offer-description">Descrição</label>
+                        <textarea class="form-control" rows="3" id="new-offer-description" placeholder="Descrição"></textarea>
                     </div>
-                    <div class="col-md-4">
-                        <small class="stat-label">Last year</small>
-                        <h4 class="m-t-xs">246,40 <i class="fa fa-level-up text-accent"></i></h4>
+                    <div class="form-group"><label for="new-offer-date">Data de Início</label>
+                        <input type="text" class="form-control" id="new-offer-date" placeholder="Data de Início">
                     </div>
-                </div>
-                <div class="progress m-t-xs full progress-small">
-                    <div style="width: 65%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="65" role="progressbar" class=" progress-bar progress-bar-warning">
-                        <span class="sr-only">65% Complete (success)</span>
+                    <div class="form-group"><label for="new-offer-amount">Valor do desconto</label>
+                        <input type="text" class="form-control" id="new-offer-amount" placeholder="Valor do desconto">
                     </div>
-                </div>
+
+                    <div><label> <input type="checkbox" class="js-switch"> Destaque </label></div>
+                </form>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-accent">Save changes</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-accent">Salvar</button>
             </div>
         </div>
     </div>
 </div>
+
+@push('scripts')
+    <script>
+        var elem = document.querySelector('.js-switch');
+        var init = new Switchery(elem, { color: '#F4AD00' });
+    </script>
+@endpush

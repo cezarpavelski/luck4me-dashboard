@@ -41,11 +41,11 @@
                                 <table id="offers" class="table table-striped table-hover">
                                     <thead>
                                     <tr>
-                                        <th>Name</th>
-                                        <th>Position</th>
-                                        <th>Office</th>
-                                        <th>Age</th>
-                                        <th>Start date</th>
+                                        <th>Título</th>
+                                        <th>Descrição</th>
+                                        <th>Desconto</th>
+                                        <th>Tipo</th>
+                                        <th>Data de Início</th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -106,7 +106,7 @@
     <script>
         $(document).ready(function () {
             $('#offers').DataTable({
-                dom: "<'row'<'col-sm-3'l><'col-sm-6 text-center'B><'col-sm-3 pull-right'f>>tp",
+                dom: "<'row'<'col-sm-6'l><'col-sm-6 text-right'B>>tp",
                 "lengthMenu": [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
                 buttons: [
                     {extend: 'copy',className: 'btn-sm'},
