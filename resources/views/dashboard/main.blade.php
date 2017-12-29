@@ -48,7 +48,7 @@
                     <div class="panel panel-filled">
                         <div class="panel-body">
                             <h2 class="m-b-none">
-                                140 <span class="slight"><i class="fa fa-play fa-rotate-90 c-white"> </i> 5%</span>
+                                140 <span class="slight"><i class="fa fa-play fa-rotate-90 c-white"> </i> -5%</span>
                             </h2>
                             <div class="small">Mulheres ativos</div>
                             <div class="slight m-t-sm"><i class="fa fa-clock-o"> </i> Atualizado: <span class="c-white">agora</span> </div>
@@ -62,22 +62,29 @@
                                 1:30 <span class="slight"><i class="fa fa-play fa-rotate-270 text-warning"> </i> +18%</span>
                             </h2>
                             <div class="small">Permanência média</div>
-                            <div class="slight m-t-sm"><i class="fa fa-clock-o"> </i> Atualizado: <span class="c-white">04:00am</span> </div>
+                            <div class="slight m-t-sm"><i class="fa fa-clock-o"> </i> Atualizado: <span class="c-white">agora</span> </div>
                         </div>
                     </div>
                 </div>
-
-
-                <div class="col-lg-4 col-xs-12">
-                    <div class="panel panel-filled" style="position:relative;height: 114px">
-                        <div style="position: absolute;bottom: 0;left: 0;right: 0">
-                            <span class="sparkline"></span>
-                        </div>
+                <div class="col-lg-2 col-xs-6">
+                    <div class="panel panel-filled">
                         <div class="panel-body">
-                            <div class="m-t-sm">
-                                <div class="c-white"><span class="label label-accent">600</span> Total de Clientes Hoje</div>
-                                <span class="small c-white"><i class="fa fa-play fa-rotate-90 c-white"> </i> -22%</span>
-                            </div>
+                            <h2 class="m-b-none">
+                                25
+                            </h2>
+                            <div class="small">Idade média</div>
+                            <div class="slight m-t-sm"><i class="fa fa-clock-o"> </i> Atualizado: <span class="c-white">agora</span> </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-xs-6">
+                    <div class="panel panel-filled">
+                        <div class="panel-body">
+                            <h2 class="m-b-none">
+                                1:30 <span class="slight"><i class="fa fa-play fa-rotate-270 text-warning"> </i> +18%</span>
+                            </h2>
+                            <div class="small">Permanência média</div>
+                            <div class="slight m-t-sm"><i class="fa fa-clock-o"> </i> Atualizado: <span class="c-white">04:00am</span> </div>
                         </div>
                     </div>
                 </div>

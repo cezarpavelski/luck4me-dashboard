@@ -7,7 +7,7 @@
             <div class="row m-t-sm">
 
                 <div class="col-md-12">
-                    @include('partials.voucher.success')
+                    @include('profile.partials.voucher-success')
                     <div class="panel panel-filled">
                         <div class="panel-body">
                             <div class="row">
