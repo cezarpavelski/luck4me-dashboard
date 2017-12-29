@@ -1,4 +1,4 @@
-@extends('partials/main')
+@extends('main')
 
 @section('content')
     <section class="content">
