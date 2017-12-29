@@ -8,7 +8,7 @@
                 <div class="col-lg-12">
                     <div class="view-header">
                         <div class="header-icon">
-                            <i class="pe page-header-icon pe-7s-ticket"></i>
+                            <i class="pe page-header-icon pe-7s-star"></i>
                         </div>
                         <div class="header-title">
                             <h3>Ofertas</h3>

@@ -8,7 +8,7 @@
                 <a href="/dashboard">Dashboard</a>
             </li>
             <li>
-                <a href="/voucher-validate">Validar Cupom</a>
+                <a href="/voucher/validate">Validar Voucher</a>
             </li>
 
             <li class="nav-category">

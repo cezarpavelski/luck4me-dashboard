@@ -23,3 +23,6 @@ Route::get('/profile', function () {
 Route::get('/offer', function () {
     return view('offers/main');
 });
+Route::get('/voucher/validate', function () {
+    return view('voucher/main');
+});
